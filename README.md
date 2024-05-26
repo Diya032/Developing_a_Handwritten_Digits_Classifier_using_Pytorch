@@ -1,4 +1,5 @@
-# Developing_a_Handwritten_Digits_Classifier_using_Pytorch
+# Developing_a_Handwritten_Digits_Classifier_
+# using_Pytorch
 
 * Developing_a_Handwritten_Digits_Classifier_with_PyTorch    -> Basic model without dropout and validation_loader
 
